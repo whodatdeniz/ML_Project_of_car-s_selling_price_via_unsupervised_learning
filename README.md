@@ -47,3 +47,6 @@ The unsupervised learning approach used in this project focuses on  **clustering
 This unsupervised learning project helps illustrate the limitations of using clustering techniques on datasets that are more suitable for supervised methods. While clustering can be useful for segmenting and discovering hidden patterns, it was not as effective in this context for identifying meaningful groups related to car pricing.
 
 The clustering algorithms yielded  **several distinct clusters**  of cars based on their features. However, the clusters did not reveal strong, clear groupings that correlated meaningfully with the selling price. While some patterns were observed (e.g., luxury brands grouped together), the clusters were not predictive of specific price ranges.
+# Kaggle
+
+https://www.kaggle.com/datasets/denizaltunay/unsupervised/data
